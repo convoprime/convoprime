@@ -15,7 +15,7 @@ Professional image cropping tool — runs entirely in your browser.
 - 🎯 **Smart Presets** — Instagram, YouTube, Twitter, LinkedIn...
 - 🛠️ **Precise Control** — Rotate, flip, zoom, exact dimensions
 
-**[🌐 Live Demo](your-demo-link)** · **[📂 Source Code](your-repo-link)**
+**[🌐 Live Demo](Convoprime.com)** · **[📂 Source Code]($)**
 
 ---
 
