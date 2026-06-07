@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Riadh 👋</h1>
-<h3 align="center">Full-Stack Developer | Building ProCrop 🖼️✂️</h3>
+<h3 align="center">Full-Stack Developer | Building Convo Prime 🖼️✂️</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Crop+images+like+a+pro;Zero+uploads+%7C+100%25+private;Built+with+vanilla+JS" alt="Typing SVG" />
