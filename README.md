@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 ProCrop
+## 🚀 Convo Prime
 Professional image cropping tool — runs entirely in your browser.
 
 - ⚡ **Instant** — No server, no waiting
