@@ -30,14 +30,6 @@ Professional image cropping tool — runs entirely in your browser.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=convoprime&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=convoprime&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
 ## 📫 Connect
 <p>
   <a href="https://twitter.com/your_handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
